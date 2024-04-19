@@ -1,0 +1,6 @@
+class nameadd{
+public static void main(String[] args){
+System.out.println("Name:Ramyaa");
+System.out.println("address:3 aster avenue,Willetton");
+}
+}
